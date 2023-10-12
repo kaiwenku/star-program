@@ -104,7 +104,11 @@
 						url: '/pages/matches/matches'
 					})
 				}
+<<<<<<< HEAD
 
+=======
+				console.log("你好")
+>>>>>>> 2003ca6a92f418b67dbe5a44249d34ffa6205f48
 			}
 		}
 	}
