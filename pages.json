@@ -1,0 +1,52 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+	
+	{
+			"path": "pages/matches/matches",
+			"style": {
+				"navigationBarTitleText": "星座配对"
+			}
+		}, 
+	
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "星辰解码"
+			}
+		},
+		
+		{
+			"path": "pages/matches/detail",
+			"style": {
+				"navigationBarTitleText": "星座配对结果"
+			}
+		},
+
+
+		{
+			"path": "pages/star/star",
+			"style": {
+				"navigationBarTitleText": "星座分析"
+			}
+		},
+		{
+			"path": "pages/lucky/lucky",
+			"style": {
+				"navigationBarTitleText": "星座运势"
+			}
+		},
+		{
+			"path": "pages/work/work",
+			"style": {
+				"navigationBarTitleText": "事业"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "星辰解码",
+		"navigationBarBackgroundColor": "#fff",
+		"backgroundColor": "#fff"
+	},
+	"uniIdRouter": {}
+}
