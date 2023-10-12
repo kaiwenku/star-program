@@ -104,6 +104,7 @@
 						url: '/pages/matches/matches'
 					})
 				}
+				console.log("你好")
 			}
 		}
 	}
